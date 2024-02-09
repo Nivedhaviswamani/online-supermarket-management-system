@@ -1,0 +1,1 @@
+It is A console based project for online SuperMarket management system done using java , and sql for data storage and retrieval.Also encrpted password and handled many errors that user might do like getting Input number amay throw Input mismtch erro so i got input number as string,and also checked asked user to reenter the password until it matches original password
