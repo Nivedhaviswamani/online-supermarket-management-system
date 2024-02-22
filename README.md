@@ -51,7 +51,7 @@ To run the SuperMarket management system on your local machine, follow these ste
 
 ## Contributors
 
-- [Your Name](https://github.com/your-username)
+-Nivedha V
 
 ## License
 
