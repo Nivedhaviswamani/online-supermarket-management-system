@@ -21,7 +21,6 @@ The SuperMarket management system allows users to perform various operations rel
 
 - **Java**: Programming language used for implementing the project logic.
 - **SQL**: Database management system used for data storage and retrieval.
-- **Encryption**: Algorithms used for encrypting passwords to ensure security.
 
 ## Getting Started
 
