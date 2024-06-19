@@ -33,12 +33,12 @@ To run the SuperMarket management system on your local machine, follow these ste
 
 2. **Navigate to the project directory**:
     ```bash
-    cd supermarket-management-system
+    cd "supermarket-management-system/OnlineSuperMarketManagementSystem/src/project"
     ```
 
 3. **Compile the Java files**:
     ```bash
-    javac *.java
+    javac Main.java
     ```
 
 4. **Run the application**:
